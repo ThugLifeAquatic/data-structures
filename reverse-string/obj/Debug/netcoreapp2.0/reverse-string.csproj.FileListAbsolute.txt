@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\reverse-string\bin\Debug\netcoreapp2.0\reverse-string.deps.json
+C:\Users\acohr\source\repos\data-structures\reverse-string\bin\Debug\netcoreapp2.0\reverse-string.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\reverse-string\bin\Debug\netcoreapp2.0\reverse-string.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\reverse-string\bin\Debug\netcoreapp2.0\reverse-string.dll
+C:\Users\acohr\source\repos\data-structures\reverse-string\bin\Debug\netcoreapp2.0\reverse-string.pdb
+C:\Users\acohr\source\repos\data-structures\reverse-string\obj\Debug\netcoreapp2.0\reverse-string.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\reverse-string\obj\Debug\netcoreapp2.0\reverse-string.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\reverse-string\obj\Debug\netcoreapp2.0\reverse-string.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\reverse-string\obj\Debug\netcoreapp2.0\reverse-string.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\reverse-string\obj\Debug\netcoreapp2.0\reverse-string.dll
+C:\Users\acohr\source\repos\data-structures\reverse-string\obj\Debug\netcoreapp2.0\reverse-string.pdb
