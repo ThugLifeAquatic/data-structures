@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\cat-garden\bin\Debug\netcoreapp2.0\cat-garden.deps.json
+C:\Users\acohr\source\repos\data-structures\cat-garden\bin\Debug\netcoreapp2.0\cat-garden.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\cat-garden\bin\Debug\netcoreapp2.0\cat-garden.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\cat-garden\bin\Debug\netcoreapp2.0\cat-garden.dll
+C:\Users\acohr\source\repos\data-structures\cat-garden\bin\Debug\netcoreapp2.0\cat-garden.pdb
+C:\Users\acohr\source\repos\data-structures\cat-garden\obj\Debug\netcoreapp2.0\cat-garden.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\cat-garden\obj\Debug\netcoreapp2.0\cat-garden.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\cat-garden\obj\Debug\netcoreapp2.0\cat-garden.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\cat-garden\obj\Debug\netcoreapp2.0\cat-garden.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\cat-garden\obj\Debug\netcoreapp2.0\cat-garden.dll
+C:\Users\acohr\source\repos\data-structures\cat-garden\obj\Debug\netcoreapp2.0\cat-garden.pdb
