@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\SingleLinkedList\bin\Debug\netcoreapp2.0\SingleLinkedList.deps.json
+C:\Users\acohr\source\repos\data-structures\SingleLinkedList\bin\Debug\netcoreapp2.0\SingleLinkedList.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\SingleLinkedList\bin\Debug\netcoreapp2.0\SingleLinkedList.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\SingleLinkedList\bin\Debug\netcoreapp2.0\SingleLinkedList.dll
+C:\Users\acohr\source\repos\data-structures\SingleLinkedList\bin\Debug\netcoreapp2.0\SingleLinkedList.pdb
+C:\Users\acohr\source\repos\data-structures\SingleLinkedList\obj\Debug\netcoreapp2.0\SingleLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\SingleLinkedList\obj\Debug\netcoreapp2.0\SingleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\SingleLinkedList\obj\Debug\netcoreapp2.0\SingleLinkedList.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\SingleLinkedList\obj\Debug\netcoreapp2.0\SingleLinkedList.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\SingleLinkedList\obj\Debug\netcoreapp2.0\SingleLinkedList.dll
+C:\Users\acohr\source\repos\data-structures\SingleLinkedList\obj\Debug\netcoreapp2.0\SingleLinkedList.pdb
