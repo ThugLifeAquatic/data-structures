@@ -1,9 +1,9 @@
 - Create a node class
 - Create a linked list class
 - Write add to list function
--- if head is null add new node to head.
--- else while node has next set current node to next node.
--- set current.next to new node.
+  -- if head is null add new node to head.
+  -- else while node has next set current node to next node.
+  -- set current.next to new node.
 - Write printList function.
 - Add nodes to list in main program.
 - Print the list in main program.
