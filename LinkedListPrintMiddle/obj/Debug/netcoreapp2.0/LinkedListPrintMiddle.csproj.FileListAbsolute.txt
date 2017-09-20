@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\LinkedListPrintMiddle\bin\Debug\netcoreapp2.0\LinkedListPrintMiddle.deps.json
+C:\Users\acohr\source\repos\data-structures\LinkedListPrintMiddle\bin\Debug\netcoreapp2.0\LinkedListPrintMiddle.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\LinkedListPrintMiddle\bin\Debug\netcoreapp2.0\LinkedListPrintMiddle.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\LinkedListPrintMiddle\bin\Debug\netcoreapp2.0\LinkedListPrintMiddle.dll
+C:\Users\acohr\source\repos\data-structures\LinkedListPrintMiddle\bin\Debug\netcoreapp2.0\LinkedListPrintMiddle.pdb
+C:\Users\acohr\source\repos\data-structures\LinkedListPrintMiddle\obj\Debug\netcoreapp2.0\LinkedListPrintMiddle.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\LinkedListPrintMiddle\obj\Debug\netcoreapp2.0\LinkedListPrintMiddle.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\LinkedListPrintMiddle\obj\Debug\netcoreapp2.0\LinkedListPrintMiddle.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\LinkedListPrintMiddle\obj\Debug\netcoreapp2.0\LinkedListPrintMiddle.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\LinkedListPrintMiddle\obj\Debug\netcoreapp2.0\LinkedListPrintMiddle.dll
+C:\Users\acohr\source\repos\data-structures\LinkedListPrintMiddle\obj\Debug\netcoreapp2.0\LinkedListPrintMiddle.pdb
