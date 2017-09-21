@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\ReturnNthNode\bin\Debug\netcoreapp2.0\ReturnNthNode.deps.json
+C:\Users\acohr\source\repos\data-structures\ReturnNthNode\bin\Debug\netcoreapp2.0\ReturnNthNode.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\ReturnNthNode\bin\Debug\netcoreapp2.0\ReturnNthNode.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\ReturnNthNode\bin\Debug\netcoreapp2.0\ReturnNthNode.dll
+C:\Users\acohr\source\repos\data-structures\ReturnNthNode\bin\Debug\netcoreapp2.0\ReturnNthNode.pdb
+C:\Users\acohr\source\repos\data-structures\ReturnNthNode\obj\Debug\netcoreapp2.0\ReturnNthNode.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\ReturnNthNode\obj\Debug\netcoreapp2.0\ReturnNthNode.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\ReturnNthNode\obj\Debug\netcoreapp2.0\ReturnNthNode.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\ReturnNthNode\obj\Debug\netcoreapp2.0\ReturnNthNode.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\ReturnNthNode\obj\Debug\netcoreapp2.0\ReturnNthNode.dll
+C:\Users\acohr\source\repos\data-structures\ReturnNthNode\obj\Debug\netcoreapp2.0\ReturnNthNode.pdb
