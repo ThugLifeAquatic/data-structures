@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\LinkedListDelete\bin\Debug\netcoreapp2.0\LinkedListDelete.deps.json
+C:\Users\acohr\source\repos\data-structures\LinkedListDelete\bin\Debug\netcoreapp2.0\LinkedListDelete.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\LinkedListDelete\bin\Debug\netcoreapp2.0\LinkedListDelete.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\LinkedListDelete\bin\Debug\netcoreapp2.0\LinkedListDelete.dll
+C:\Users\acohr\source\repos\data-structures\LinkedListDelete\bin\Debug\netcoreapp2.0\LinkedListDelete.pdb
+C:\Users\acohr\source\repos\data-structures\LinkedListDelete\obj\Debug\netcoreapp2.0\LinkedListDelete.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\LinkedListDelete\obj\Debug\netcoreapp2.0\LinkedListDelete.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\LinkedListDelete\obj\Debug\netcoreapp2.0\LinkedListDelete.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\LinkedListDelete\obj\Debug\netcoreapp2.0\LinkedListDelete.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\LinkedListDelete\obj\Debug\netcoreapp2.0\LinkedListDelete.dll
+C:\Users\acohr\source\repos\data-structures\LinkedListDelete\obj\Debug\netcoreapp2.0\LinkedListDelete.pdb

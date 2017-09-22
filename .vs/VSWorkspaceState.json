@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LinkedListDelete",
+    "\\ReturnNthNode"
   ],
+  "SelectedNode": "\\LinkedListDelete\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
