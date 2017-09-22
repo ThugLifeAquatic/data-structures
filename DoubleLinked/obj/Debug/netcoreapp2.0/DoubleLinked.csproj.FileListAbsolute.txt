@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\DoubleLinked\bin\Debug\netcoreapp2.0\DoubleLinked.deps.json
+C:\Users\acohr\source\repos\data-structures\DoubleLinked\bin\Debug\netcoreapp2.0\DoubleLinked.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\DoubleLinked\bin\Debug\netcoreapp2.0\DoubleLinked.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\DoubleLinked\bin\Debug\netcoreapp2.0\DoubleLinked.dll
+C:\Users\acohr\source\repos\data-structures\DoubleLinked\bin\Debug\netcoreapp2.0\DoubleLinked.pdb
+C:\Users\acohr\source\repos\data-structures\DoubleLinked\obj\Debug\netcoreapp2.0\DoubleLinked.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\DoubleLinked\obj\Debug\netcoreapp2.0\DoubleLinked.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\DoubleLinked\obj\Debug\netcoreapp2.0\DoubleLinked.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\DoubleLinked\obj\Debug\netcoreapp2.0\DoubleLinked.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\DoubleLinked\obj\Debug\netcoreapp2.0\DoubleLinked.dll
+C:\Users\acohr\source\repos\data-structures\DoubleLinked\obj\Debug\netcoreapp2.0\DoubleLinked.pdb
