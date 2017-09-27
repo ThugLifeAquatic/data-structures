@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DoubleLinked",
+    "\\LinkedListDelete"
   ],
-  "SelectedNode": "\\cat-garden.sln",
+  "SelectedNode": "\\DoubleLinked\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
