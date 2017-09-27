@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\StacksAndQueues\bin\Debug\netcoreapp2.0\StacksAndQueues.deps.json
+C:\Users\acohr\source\repos\data-structures\StacksAndQueues\bin\Debug\netcoreapp2.0\StacksAndQueues.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\StacksAndQueues\bin\Debug\netcoreapp2.0\StacksAndQueues.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\StacksAndQueues\bin\Debug\netcoreapp2.0\StacksAndQueues.dll
+C:\Users\acohr\source\repos\data-structures\StacksAndQueues\bin\Debug\netcoreapp2.0\StacksAndQueues.pdb
+C:\Users\acohr\source\repos\data-structures\StacksAndQueues\obj\Debug\netcoreapp2.0\StacksAndQueues.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\StacksAndQueues\obj\Debug\netcoreapp2.0\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\StacksAndQueues\obj\Debug\netcoreapp2.0\StacksAndQueues.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\StacksAndQueues\obj\Debug\netcoreapp2.0\StacksAndQueues.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\StacksAndQueues\obj\Debug\netcoreapp2.0\StacksAndQueues.dll
+C:\Users\acohr\source\repos\data-structures\StacksAndQueues\obj\Debug\netcoreapp2.0\StacksAndQueues.pdb
