@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindromeQueue", "IsPalindromeQueue\IsPalindromeQueue.csproj", "{DA763F4C-4791-44BC-A64B-D8359EF8A332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA763F4C-4791-44BC-A64B-D8359EF8A332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA763F4C-4791-44BC-A64B-D8359EF8A332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA763F4C-4791-44BC-A64B-D8359EF8A332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA763F4C-4791-44BC-A64B-D8359EF8A332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C2D867-AE79-4C73-9058-EB6030384608}
+	EndGlobalSection
+EndGlobal

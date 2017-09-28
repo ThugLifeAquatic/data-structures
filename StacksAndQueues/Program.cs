@@ -15,8 +15,7 @@ namespace StacksAndQueues
             testQ.Dequeue();
 
             Console.WriteLine("");
-
-
+            
             Console.WriteLine("STACK TEST:");
             Stack testS = new Stack();
             testS.Push("ONE");
@@ -24,8 +23,7 @@ namespace StacksAndQueues
             testS.Push("THREE");
             testS.Push("FOUR");
             testS.Pop();
-
-
+            
             Console.Read();
         }
     }
