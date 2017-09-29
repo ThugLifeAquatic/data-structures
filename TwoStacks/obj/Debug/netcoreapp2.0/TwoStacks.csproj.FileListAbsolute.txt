@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\TwoStacks\bin\Debug\netcoreapp2.0\TwoStacks.deps.json
+C:\Users\acohr\source\repos\data-structures\TwoStacks\bin\Debug\netcoreapp2.0\TwoStacks.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\TwoStacks\bin\Debug\netcoreapp2.0\TwoStacks.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\TwoStacks\bin\Debug\netcoreapp2.0\TwoStacks.dll
+C:\Users\acohr\source\repos\data-structures\TwoStacks\bin\Debug\netcoreapp2.0\TwoStacks.pdb
+C:\Users\acohr\source\repos\data-structures\TwoStacks\obj\Debug\netcoreapp2.0\TwoStacks.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\TwoStacks\obj\Debug\netcoreapp2.0\TwoStacks.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\TwoStacks\obj\Debug\netcoreapp2.0\TwoStacks.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\TwoStacks\obj\Debug\netcoreapp2.0\TwoStacks.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\TwoStacks\obj\Debug\netcoreapp2.0\TwoStacks.dll
+C:\Users\acohr\source\repos\data-structures\TwoStacks\obj\Debug\netcoreapp2.0\TwoStacks.pdb
