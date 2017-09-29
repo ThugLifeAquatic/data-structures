@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DoubleLinked",
-    "\\LinkedListDelete"
+    "\\StacksAndQueues"
   ],
-  "SelectedNode": "\\DoubleLinked\\Program.cs",
+  "SelectedNode": "\\StacksAndQueues\\Node.cs",
   "PreviewInSolutionExplorer": false
 }

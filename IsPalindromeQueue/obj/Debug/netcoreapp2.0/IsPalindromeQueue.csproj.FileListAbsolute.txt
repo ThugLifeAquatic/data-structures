@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\IsPalindromeQueue\obj\Debug\netcoreapp2.0\IsPalindromeQueue.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\IsPalindromeQueue\obj\Debug\netcoreapp2.0\IsPalindromeQueue.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\IsPalindromeQueue\obj\Debug\netcoreapp2.0\IsPalindromeQueue.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\IsPalindromeQueue\obj\Debug\netcoreapp2.0\IsPalindromeQueue.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\IsPalindromeQueue\bin\Debug\netcoreapp2.0\IsPalindromeQueue.deps.json
+C:\Users\acohr\source\repos\data-structures\IsPalindromeQueue\bin\Debug\netcoreapp2.0\IsPalindromeQueue.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\IsPalindromeQueue\bin\Debug\netcoreapp2.0\IsPalindromeQueue.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\IsPalindromeQueue\bin\Debug\netcoreapp2.0\IsPalindromeQueue.dll
+C:\Users\acohr\source\repos\data-structures\IsPalindromeQueue\bin\Debug\netcoreapp2.0\IsPalindromeQueue.pdb
+C:\Users\acohr\source\repos\data-structures\IsPalindromeQueue\obj\Debug\netcoreapp2.0\IsPalindromeQueue.dll
+C:\Users\acohr\source\repos\data-structures\IsPalindromeQueue\obj\Debug\netcoreapp2.0\IsPalindromeQueue.pdb
