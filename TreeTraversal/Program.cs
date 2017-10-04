@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TwoLevelTree
+namespace TreeTraversal
 {
     class Program
     {
