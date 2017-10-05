@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TwoLevelTree
+namespace TreeInorderPost
 {
     class Program
     {
@@ -16,9 +16,17 @@ namespace TwoLevelTree
             aTree.Root.Right.Left = new Node(5);
             aTree.Root.Right.Right = new Node(7);
 
-            Console.WriteLine("TRAVERSAL:");
+            Console.WriteLine("PREORDER:");
 
             aTree.Traverse(aTree.Root);
+
+            Console.WriteLine("INORDER:");
+
+            aTree.Inorder(aTree.Root);
+
+            Console.WriteLine("POSTORDER:");
+
+            aTree.Postorder(aTree.Root);
             Console.ReadLine();
         }
     }

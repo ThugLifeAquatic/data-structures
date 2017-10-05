@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TwoLevelTree
+namespace TreeInorderPost
 {
     class Trees
     {
@@ -27,9 +27,29 @@ namespace TwoLevelTree
         {
             if (curr!= null)
             {
-                Traverse(curr.Left);
                 Console.WriteLine(curr.Data);
+                Traverse(curr.Left);
                 Traverse(curr.Right);
+            }
+        }
+
+        public void Inorder(Node curr)
+        {
+            if (curr != null)
+            {
+                Inorder(curr.Left);
+                Console.WriteLine(curr.Data);
+                Inorder(curr.Right);
+            }
+        }
+
+        public void Postorder(Node curr)
+        {
+            if (curr != null)
+            {
+                Postorder(curr.Left);
+                Postorder(curr.Right);
+                Console.WriteLine(curr.Data);
             }
         }
 

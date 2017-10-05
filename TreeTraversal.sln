@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTraversal", "TreeTraversal\TreeTraversal.csproj", "{FEAC76EB-CFCB-4B89-98A4-7BC803FCC236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEAC76EB-CFCB-4B89-98A4-7BC803FCC236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAC76EB-CFCB-4B89-98A4-7BC803FCC236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAC76EB-CFCB-4B89-98A4-7BC803FCC236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAC76EB-CFCB-4B89-98A4-7BC803FCC236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0A4EC78-D656-4EC2-890B-E7601D1D1BF1}
+	EndGlobalSection
+EndGlobal

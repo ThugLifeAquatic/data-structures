@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\TreeTraversal\bin\Debug\netcoreapp2.0\TreeTraversal.deps.json
+C:\Users\acohr\source\repos\data-structures\TreeTraversal\bin\Debug\netcoreapp2.0\TreeTraversal.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\TreeTraversal\bin\Debug\netcoreapp2.0\TreeTraversal.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\TreeTraversal\bin\Debug\netcoreapp2.0\TreeTraversal.dll
+C:\Users\acohr\source\repos\data-structures\TreeTraversal\bin\Debug\netcoreapp2.0\TreeTraversal.pdb
+C:\Users\acohr\source\repos\data-structures\TreeTraversal\obj\Debug\netcoreapp2.0\TreeTraversal.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\TreeTraversal\obj\Debug\netcoreapp2.0\TreeTraversal.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\TreeTraversal\obj\Debug\netcoreapp2.0\TreeTraversal.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\TreeTraversal\obj\Debug\netcoreapp2.0\TreeTraversal.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\TreeTraversal\obj\Debug\netcoreapp2.0\TreeTraversal.dll
+C:\Users\acohr\source\repos\data-structures\TreeTraversal\obj\Debug\netcoreapp2.0\TreeTraversal.pdb

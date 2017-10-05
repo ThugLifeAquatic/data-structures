@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\TreeInOrderPost\bin\Debug\netcoreapp2.0\TreeInOrderPost.deps.json
+C:\Users\acohr\source\repos\data-structures\TreeInOrderPost\bin\Debug\netcoreapp2.0\TreeInOrderPost.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\TreeInOrderPost\bin\Debug\netcoreapp2.0\TreeInOrderPost.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\TreeInOrderPost\bin\Debug\netcoreapp2.0\TreeInOrderPost.dll
+C:\Users\acohr\source\repos\data-structures\TreeInOrderPost\bin\Debug\netcoreapp2.0\TreeInOrderPost.pdb
+C:\Users\acohr\source\repos\data-structures\TreeInOrderPost\obj\Debug\netcoreapp2.0\TreeInOrderPost.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\TreeInOrderPost\obj\Debug\netcoreapp2.0\TreeInOrderPost.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\TreeInOrderPost\obj\Debug\netcoreapp2.0\TreeInOrderPost.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\TreeInOrderPost\obj\Debug\netcoreapp2.0\TreeInOrderPost.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\TreeInOrderPost\obj\Debug\netcoreapp2.0\TreeInOrderPost.dll
+C:\Users\acohr\source\repos\data-structures\TreeInOrderPost\obj\Debug\netcoreapp2.0\TreeInOrderPost.pdb
