@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\TreeBreadth\bin\Debug\netcoreapp2.0\TreeBreadth.deps.json
+C:\Users\acohr\source\repos\data-structures\TreeBreadth\bin\Debug\netcoreapp2.0\TreeBreadth.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\TreeBreadth\bin\Debug\netcoreapp2.0\TreeBreadth.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\TreeBreadth\bin\Debug\netcoreapp2.0\TreeBreadth.dll
+C:\Users\acohr\source\repos\data-structures\TreeBreadth\bin\Debug\netcoreapp2.0\TreeBreadth.pdb
+C:\Users\acohr\source\repos\data-structures\TreeBreadth\obj\Debug\netcoreapp2.0\TreeBreadth.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\TreeBreadth\obj\Debug\netcoreapp2.0\TreeBreadth.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\TreeBreadth\obj\Debug\netcoreapp2.0\TreeBreadth.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\TreeBreadth\obj\Debug\netcoreapp2.0\TreeBreadth.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\TreeBreadth\obj\Debug\netcoreapp2.0\TreeBreadth.dll
+C:\Users\acohr\source\repos\data-structures\TreeBreadth\obj\Debug\netcoreapp2.0\TreeBreadth.pdb
