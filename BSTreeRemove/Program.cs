@@ -30,6 +30,8 @@ namespace BSTreeRemove
 
             Console.Write("REMOVE:");
             Console.WriteLine(testTree.Remove(testTree.Root, 5).Data);
+            Console.WriteLine(testTree.Remove(testTree.Root, 4).Data);
+            Console.WriteLine(testTree.Remove(testTree.Root, 7).Data);
 
             Console.WriteLine("Print:");
             testTree.Print(testTree.Root);
