@@ -23,10 +23,17 @@ namespace BSTreeRemove
             Console.WriteLine(testTree.Max(testTree.Root).Data);
 
             Console.Write("FIND:");
-            Console.WriteLine(testTree.FindParent(testTree.Root, 10).Data);
+            Console.WriteLine(testTree.FindParent(testTree.Root, 8).Data);
+
+            Console.WriteLine("Print:");
+            testTree.Print(testTree.Root);
 
             Console.Write("REMOVE:");
-            Console.WriteLine(testTree.Remove(testTree.Root, 3).Data);
+            Console.WriteLine(testTree.Remove(testTree.Root, 5).Data);
+
+            Console.WriteLine("Print:");
+            testTree.Print(testTree.Root);
+
 
 
 

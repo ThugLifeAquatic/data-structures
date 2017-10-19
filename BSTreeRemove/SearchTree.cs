@@ -20,6 +20,7 @@ namespace BSTreeRemove
         }
 
         public Node Root { get; set; }
+
         public void Add(Node node, int data)
         {
             if (Root == null)
@@ -104,7 +105,7 @@ namespace BSTreeRemove
             }
             else
             {
-                return new Node(0);
+                return null;
             }
 
         }
@@ -117,6 +118,28 @@ namespace BSTreeRemove
             Node Temp;
             Node Swap;
             Node Parent = FindParent(Root, data);
+            if (Root.Data == data)
+            {
+                Target = Root;
+                Swap = Max(Target.Left);
+                Temp = FindParent(Target.Left, Swap.Data);
+                if (Temp == null)
+                {
+                    Swap.Right = Root.Right;
+                    Temp = Root;
+                    Root = Swap;
+                    return Temp;
+                }
+                Temp.Right = null;
+                if (Swap.Left != null)
+                {
+                    Temp.Right = Swap.Left;
+                    Swap.Left = null;
+                }
+                Target.Data = Swap.Data;
+                Swap.Data = data;
+                return Swap;
+            }
             if (Parent.Left == null && Parent.Right == null)
             {
                 return null;
@@ -132,9 +155,11 @@ namespace BSTreeRemove
                         return Target;
                     }
                     Parent.Left = Target.Right;
+                    return Target;
                 }
                 Swap = Max(Target.Left);
                 Temp = FindParent(Target.Left, Swap.Data);
+                Temp.Right = null;
                 if (Swap.Left != null)
                 {
                     Temp.Right = Swap.Left;
@@ -151,13 +176,15 @@ namespace BSTreeRemove
                 {
                     if (Target.Right == null)
                     {
-                        Parent.Left = null;
+                        Parent.Right = null;
                         return Target;
                     }
-                    Parent.Left = Target.Right;
+                    Parent.Right = Target.Right;
+                    return Target;
                 }
                 Swap = Max(Target.Left);
                 Temp = FindParent(Target.Left, Swap.Data);
+                Temp.Right = null;
                 if (Swap.Left != null)
                 {
                     Temp.Right = Swap.Left;
@@ -167,9 +194,19 @@ namespace BSTreeRemove
                 Swap.Data = data;
                 return Swap;
             }
-           
+        }
 
-
+        public void Print(Node node)
+        {
+            Console.WriteLine(node.Data);
+            if (node.Left != null)
+            {
+                Print(node.Left);
+            }
+            if (node.Right != null)
+            {
+                Print(node.Right);
+            }
         }
     }
 }
