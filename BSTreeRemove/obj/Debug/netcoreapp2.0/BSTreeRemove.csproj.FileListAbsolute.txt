@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\BSTreeRemove\bin\Debug\netcoreapp2.0\BSTreeRemove.deps.json
+C:\Users\acohr\source\repos\data-structures\BSTreeRemove\bin\Debug\netcoreapp2.0\BSTreeRemove.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\BSTreeRemove\bin\Debug\netcoreapp2.0\BSTreeRemove.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\BSTreeRemove\bin\Debug\netcoreapp2.0\BSTreeRemove.dll
+C:\Users\acohr\source\repos\data-structures\BSTreeRemove\bin\Debug\netcoreapp2.0\BSTreeRemove.pdb
+C:\Users\acohr\source\repos\data-structures\BSTreeRemove\obj\Debug\netcoreapp2.0\BSTreeRemove.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\BSTreeRemove\obj\Debug\netcoreapp2.0\BSTreeRemove.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\BSTreeRemove\obj\Debug\netcoreapp2.0\BSTreeRemove.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\BSTreeRemove\obj\Debug\netcoreapp2.0\BSTreeRemove.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\BSTreeRemove\obj\Debug\netcoreapp2.0\BSTreeRemove.dll
+C:\Users\acohr\source\repos\data-structures\BSTreeRemove\obj\Debug\netcoreapp2.0\BSTreeRemove.pdb
