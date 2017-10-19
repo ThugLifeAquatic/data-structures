@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\BSTreeMinMax\bin\Debug\netcoreapp2.0\BSTreeMinMax.deps.json
+C:\Users\acohr\source\repos\data-structures\BSTreeMinMax\bin\Debug\netcoreapp2.0\BSTreeMinMax.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\BSTreeMinMax\bin\Debug\netcoreapp2.0\BSTreeMinMax.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\BSTreeMinMax\bin\Debug\netcoreapp2.0\BSTreeMinMax.dll
+C:\Users\acohr\source\repos\data-structures\BSTreeMinMax\bin\Debug\netcoreapp2.0\BSTreeMinMax.pdb
+C:\Users\acohr\source\repos\data-structures\BSTreeMinMax\obj\Debug\netcoreapp2.0\BSTreeMinMax.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\BSTreeMinMax\obj\Debug\netcoreapp2.0\BSTreeMinMax.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\BSTreeMinMax\obj\Debug\netcoreapp2.0\BSTreeMinMax.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\BSTreeMinMax\obj\Debug\netcoreapp2.0\BSTreeMinMax.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\BSTreeMinMax\obj\Debug\netcoreapp2.0\BSTreeMinMax.dll
+C:\Users\acohr\source\repos\data-structures\BSTreeMinMax\obj\Debug\netcoreapp2.0\BSTreeMinMax.pdb

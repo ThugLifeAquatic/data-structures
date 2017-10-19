@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TreeInorderPost
+namespace TreeBreadth
+
 {
     class Trees
     {
@@ -49,6 +50,26 @@ namespace TreeInorderPost
                 Postorder(curr.Right);
                 Console.WriteLine(curr.Data);
             }
+        }
+
+        public void Breadth(Node curr)
+        {
+            Queue<Node> Q = new Queue<Node>();
+            Q.Enqueue(curr);
+            while (Q.Count > 0)
+            {
+                Node Traverse = Q.Dequeue();
+                Console.WriteLine(Traverse.Data);
+                if(Traverse.Left != null)
+                {
+                    Q.Enqueue(Traverse.Left);
+                }
+                if (Traverse.Right != null)
+                {
+                    Q.Enqueue(Traverse.Right);
+                }
+            }
+
         }
 
     }

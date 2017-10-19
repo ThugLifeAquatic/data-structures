@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\BinarySearchTree\bin\Debug\netcoreapp2.0\BinarySearchTree.deps.json
+C:\Users\acohr\source\repos\data-structures\BinarySearchTree\bin\Debug\netcoreapp2.0\BinarySearchTree.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\BinarySearchTree\bin\Debug\netcoreapp2.0\BinarySearchTree.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\BinarySearchTree\bin\Debug\netcoreapp2.0\BinarySearchTree.dll
+C:\Users\acohr\source\repos\data-structures\BinarySearchTree\bin\Debug\netcoreapp2.0\BinarySearchTree.pdb
+C:\Users\acohr\source\repos\data-structures\BinarySearchTree\obj\Debug\netcoreapp2.0\BinarySearchTree.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\BinarySearchTree\obj\Debug\netcoreapp2.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\BinarySearchTree\obj\Debug\netcoreapp2.0\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\BinarySearchTree\obj\Debug\netcoreapp2.0\BinarySearchTree.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\BinarySearchTree\obj\Debug\netcoreapp2.0\BinarySearchTree.dll
+C:\Users\acohr\source\repos\data-structures\BinarySearchTree\obj\Debug\netcoreapp2.0\BinarySearchTree.pdb
