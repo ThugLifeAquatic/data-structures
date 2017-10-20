@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\BSTreeFromArray\bin\Debug\netcoreapp2.0\BSTreeFromArray.deps.json
+C:\Users\acohr\source\repos\data-structures\BSTreeFromArray\bin\Debug\netcoreapp2.0\BSTreeFromArray.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\BSTreeFromArray\bin\Debug\netcoreapp2.0\BSTreeFromArray.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\BSTreeFromArray\bin\Debug\netcoreapp2.0\BSTreeFromArray.dll
+C:\Users\acohr\source\repos\data-structures\BSTreeFromArray\bin\Debug\netcoreapp2.0\BSTreeFromArray.pdb
+C:\Users\acohr\source\repos\data-structures\BSTreeFromArray\obj\Debug\netcoreapp2.0\BSTreeFromArray.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\BSTreeFromArray\obj\Debug\netcoreapp2.0\BSTreeFromArray.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\BSTreeFromArray\obj\Debug\netcoreapp2.0\BSTreeFromArray.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\BSTreeFromArray\obj\Debug\netcoreapp2.0\BSTreeFromArray.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\BSTreeFromArray\obj\Debug\netcoreapp2.0\BSTreeFromArray.dll
+C:\Users\acohr\source\repos\data-structures\BSTreeFromArray\obj\Debug\netcoreapp2.0\BSTreeFromArray.pdb

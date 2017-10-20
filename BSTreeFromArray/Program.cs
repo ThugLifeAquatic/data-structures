@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BSTreeRemove
+namespace BSTreeFromArray
 {
     class Program
     {
