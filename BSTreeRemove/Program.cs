@@ -25,7 +25,7 @@ namespace BSTreeRemove
             Console.Write("FIND:");
             Console.WriteLine(testTree.FindParent(testTree.Root, 8).Data);
 
-            Console.WriteLine("Print:");
+            Console.WriteLine("PRINT:");
             testTree.Print(testTree.Root);
 
             Console.Write("REMOVE:");
@@ -33,8 +33,15 @@ namespace BSTreeRemove
             Console.WriteLine(testTree.Remove(testTree.Root, 4).Data);
             Console.WriteLine(testTree.Remove(testTree.Root, 7).Data);
 
-            Console.WriteLine("Print:");
+            Console.WriteLine("PRINT:");
             testTree.Print(testTree.Root);
+
+            Console.WriteLine("ARRAY TO BST:");
+            int[] arr = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
+            SearchTree testTWO = new SearchTree();
+            testTWO.Root = testTWO.ArrToBST(arr,0, arr.Length-1);
+
+            testTWO.Print(testTWO.Root);
 
 
 
