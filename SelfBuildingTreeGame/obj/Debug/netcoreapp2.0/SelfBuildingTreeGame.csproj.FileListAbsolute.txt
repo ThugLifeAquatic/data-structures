@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\SelfBuildingTreeGame\bin\Debug\netcoreapp2.0\SelfBuildingTreeGame.deps.json
+C:\Users\acohr\source\repos\data-structures\SelfBuildingTreeGame\bin\Debug\netcoreapp2.0\SelfBuildingTreeGame.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\SelfBuildingTreeGame\bin\Debug\netcoreapp2.0\SelfBuildingTreeGame.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\SelfBuildingTreeGame\bin\Debug\netcoreapp2.0\SelfBuildingTreeGame.dll
+C:\Users\acohr\source\repos\data-structures\SelfBuildingTreeGame\bin\Debug\netcoreapp2.0\SelfBuildingTreeGame.pdb
+C:\Users\acohr\source\repos\data-structures\SelfBuildingTreeGame\obj\Debug\netcoreapp2.0\SelfBuildingTreeGame.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\SelfBuildingTreeGame\obj\Debug\netcoreapp2.0\SelfBuildingTreeGame.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\SelfBuildingTreeGame\obj\Debug\netcoreapp2.0\SelfBuildingTreeGame.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\SelfBuildingTreeGame\obj\Debug\netcoreapp2.0\SelfBuildingTreeGame.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\SelfBuildingTreeGame\obj\Debug\netcoreapp2.0\SelfBuildingTreeGame.dll
+C:\Users\acohr\source\repos\data-structures\SelfBuildingTreeGame\obj\Debug\netcoreapp2.0\SelfBuildingTreeGame.pdb
