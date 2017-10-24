@@ -17,13 +17,16 @@ namespace InsertionSort
         }
         static int[] InsertionSort(int[] arr)
         {
-            int temp;
 
             for (int i = 0; i < arr.Length; i++)
             {
-                temp = arr[i];
+                //Had everything correct on my own with no reference exept the below conditional.
+                //I was starting j at 1 and incrementing instead of starting j at i and deprecating.
+                //I went here for help: "http://www.c-sharpcorner.com/blogs/insertion-sorting-algorithm-in-c-sharp1"
 
+                //START EXTERNAL RESOURCE
                 for (int j = i; j > 0; j--)
+                //END EXTERNAL RESOURCE
                 {
                     if (arr[j-1] > arr[j])
                     {
