@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\InsertionSort\bin\Debug\netcoreapp2.0\InsertionSort.deps.json
+C:\Users\acohr\source\repos\data-structures\InsertionSort\bin\Debug\netcoreapp2.0\InsertionSort.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\InsertionSort\bin\Debug\netcoreapp2.0\InsertionSort.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\InsertionSort\bin\Debug\netcoreapp2.0\InsertionSort.dll
+C:\Users\acohr\source\repos\data-structures\InsertionSort\bin\Debug\netcoreapp2.0\InsertionSort.pdb
+C:\Users\acohr\source\repos\data-structures\InsertionSort\obj\Debug\netcoreapp2.0\InsertionSort.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\InsertionSort\obj\Debug\netcoreapp2.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\InsertionSort\obj\Debug\netcoreapp2.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\InsertionSort\obj\Debug\netcoreapp2.0\InsertionSort.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\InsertionSort\obj\Debug\netcoreapp2.0\InsertionSort.dll
+C:\Users\acohr\source\repos\data-structures\InsertionSort\obj\Debug\netcoreapp2.0\InsertionSort.pdb
