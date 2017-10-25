@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.deps.json
+C:\Users\acohr\source\repos\data-structures\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.dll
+C:\Users\acohr\source\repos\data-structures\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.pdb
+C:\Users\acohr\source\repos\data-structures\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.dll
+C:\Users\acohr\source\repos\data-structures\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.pdb
