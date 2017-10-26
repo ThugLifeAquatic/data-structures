@@ -5,6 +5,9 @@ namespace RadixSort
 {
     class Program
     {
+        //To write this solution I used this resource as a logical guide: http://www.csharpstar.com/csharp-program-radix-sort/
+        //This implementation is entirely my own except for the modulo math on line 33.  It was borrowed from the above resource.
+
         //ALGORITH DESCRIPTION:
         //1. Take in unsorted array, attain the size of its max value.
         //2. Perform first pass sort on the array, pushing each value into the appropriate bucket. Return the bucket.
