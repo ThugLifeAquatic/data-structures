@@ -69,7 +69,7 @@ namespace RadixSort
             return newBuckets;
         }
 
-        //Converts a bucket list int the final sorted array
+        //Converts a bucket list into the final sorted array
         static int[] ToFinalArray(List<int>[] bucketToSort, int originalArrayLength)
         {
 
@@ -107,6 +107,7 @@ namespace RadixSort
             return max;
         }
 
+        //Performs the sort using the above helper methods
         static int[] RadixSort(int[] toSort)
         {
             List<int>[] SortedBucket = ToBuckets(toSort);
