@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\AssociativeArray\bin\Debug\netcoreapp2.0\AssociativeArray.deps.json
+C:\Users\acohr\source\repos\data-structures\AssociativeArray\bin\Debug\netcoreapp2.0\AssociativeArray.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\AssociativeArray\bin\Debug\netcoreapp2.0\AssociativeArray.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\AssociativeArray\bin\Debug\netcoreapp2.0\AssociativeArray.dll
+C:\Users\acohr\source\repos\data-structures\AssociativeArray\bin\Debug\netcoreapp2.0\AssociativeArray.pdb
+C:\Users\acohr\source\repos\data-structures\AssociativeArray\obj\Debug\netcoreapp2.0\AssociativeArray.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\AssociativeArray\obj\Debug\netcoreapp2.0\AssociativeArray.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\AssociativeArray\obj\Debug\netcoreapp2.0\AssociativeArray.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\AssociativeArray\obj\Debug\netcoreapp2.0\AssociativeArray.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\AssociativeArray\obj\Debug\netcoreapp2.0\AssociativeArray.dll
+C:\Users\acohr\source\repos\data-structures\AssociativeArray\obj\Debug\netcoreapp2.0\AssociativeArray.pdb
