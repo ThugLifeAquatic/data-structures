@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\Matrix_XMarksTheZero\bin\Debug\netcoreapp2.0\Matrix_XMarksTheZero.deps.json
+C:\Users\acohr\source\repos\data-structures\Matrix_XMarksTheZero\bin\Debug\netcoreapp2.0\Matrix_XMarksTheZero.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\Matrix_XMarksTheZero\bin\Debug\netcoreapp2.0\Matrix_XMarksTheZero.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\Matrix_XMarksTheZero\bin\Debug\netcoreapp2.0\Matrix_XMarksTheZero.dll
+C:\Users\acohr\source\repos\data-structures\Matrix_XMarksTheZero\bin\Debug\netcoreapp2.0\Matrix_XMarksTheZero.pdb
+C:\Users\acohr\source\repos\data-structures\Matrix_XMarksTheZero\obj\Debug\netcoreapp2.0\Matrix_XMarksTheZero.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\Matrix_XMarksTheZero\obj\Debug\netcoreapp2.0\Matrix_XMarksTheZero.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\Matrix_XMarksTheZero\obj\Debug\netcoreapp2.0\Matrix_XMarksTheZero.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\Matrix_XMarksTheZero\obj\Debug\netcoreapp2.0\Matrix_XMarksTheZero.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\Matrix_XMarksTheZero\obj\Debug\netcoreapp2.0\Matrix_XMarksTheZero.dll
+C:\Users\acohr\source\repos\data-structures\Matrix_XMarksTheZero\obj\Debug\netcoreapp2.0\Matrix_XMarksTheZero.pdb
