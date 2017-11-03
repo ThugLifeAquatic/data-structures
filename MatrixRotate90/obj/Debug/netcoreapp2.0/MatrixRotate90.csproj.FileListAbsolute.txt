@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\MatrixRotate90\bin\Debug\netcoreapp2.0\MatrixRotate90.deps.json
+C:\Users\acohr\source\repos\data-structures\MatrixRotate90\bin\Debug\netcoreapp2.0\MatrixRotate90.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\MatrixRotate90\bin\Debug\netcoreapp2.0\MatrixRotate90.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\MatrixRotate90\bin\Debug\netcoreapp2.0\MatrixRotate90.dll
+C:\Users\acohr\source\repos\data-structures\MatrixRotate90\bin\Debug\netcoreapp2.0\MatrixRotate90.pdb
+C:\Users\acohr\source\repos\data-structures\MatrixRotate90\obj\Debug\netcoreapp2.0\MatrixRotate90.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\MatrixRotate90\obj\Debug\netcoreapp2.0\MatrixRotate90.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\MatrixRotate90\obj\Debug\netcoreapp2.0\MatrixRotate90.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\MatrixRotate90\obj\Debug\netcoreapp2.0\MatrixRotate90.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\MatrixRotate90\obj\Debug\netcoreapp2.0\MatrixRotate90.dll
+C:\Users\acohr\source\repos\data-structures\MatrixRotate90\obj\Debug\netcoreapp2.0\MatrixRotate90.pdb
