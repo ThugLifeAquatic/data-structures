@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\TowersOfHanoi\bin\Debug\netcoreapp2.0\TowersOfHanoi.deps.json
+C:\Users\acohr\source\repos\data-structures\TowersOfHanoi\bin\Debug\netcoreapp2.0\TowersOfHanoi.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\TowersOfHanoi\bin\Debug\netcoreapp2.0\TowersOfHanoi.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\TowersOfHanoi\bin\Debug\netcoreapp2.0\TowersOfHanoi.dll
+C:\Users\acohr\source\repos\data-structures\TowersOfHanoi\bin\Debug\netcoreapp2.0\TowersOfHanoi.pdb
+C:\Users\acohr\source\repos\data-structures\TowersOfHanoi\obj\Debug\netcoreapp2.0\TowersOfHanoi.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\TowersOfHanoi\obj\Debug\netcoreapp2.0\TowersOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\TowersOfHanoi\obj\Debug\netcoreapp2.0\TowersOfHanoi.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\TowersOfHanoi\obj\Debug\netcoreapp2.0\TowersOfHanoi.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\TowersOfHanoi\obj\Debug\netcoreapp2.0\TowersOfHanoi.dll
+C:\Users\acohr\source\repos\data-structures\TowersOfHanoi\obj\Debug\netcoreapp2.0\TowersOfHanoi.pdb
