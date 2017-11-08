@@ -9,7 +9,7 @@ namespace TowersOfHanoi
         {
             Console.WriteLine("Hello World!");
             Stack<int> A = new Stack<int>();
-            Populate(A, 5);
+            Populate(A, 3);
             Console.WriteLine(A.Count);
             Stack<int> B = new Stack<int>();
             Stack<int> C = new Stack<int>();
@@ -30,22 +30,17 @@ namespace TowersOfHanoi
             }
         }
 
-        static void RecursiveTowerShuffle(Stack<int> origin, Stack<int> near, Stack<int> far, Stack<int> end, int until)
+        static void RecursiveTowerShuffle(Stack<int> origin, Stack<int> near, Stack<int> far, int until)
         {
             Stack<int> temp = new Stack<int>();
             while (end.Count == 0 || end.Peek() != until)
             {
+
                 far.Push(origin.Pop());
                 near.Push(origin.Pop());
                 near.Push(far.Pop());
-                if (origin.Count > 0)
-                {
-                    far.Push(origin.Pop());
-                }
-                else
-                {
-                    origin.Push(far.Pop());
-                }
+                
+
                 temp = origin;
                 origin = near;
                 near = far;
@@ -58,7 +53,7 @@ namespace TowersOfHanoi
         {
             if (C.Count == 0 || C.Peek() != 1)
             {
-
+                RecursiveTowerShuffle(B, C, A, C, A.Count);
             }
         }
     }
