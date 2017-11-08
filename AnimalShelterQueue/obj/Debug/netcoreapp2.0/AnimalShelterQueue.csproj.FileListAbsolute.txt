@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\AnimalShelterQueue\bin\Debug\netcoreapp2.0\AnimalShelterQueue.deps.json
+C:\Users\acohr\source\repos\data-structures\AnimalShelterQueue\bin\Debug\netcoreapp2.0\AnimalShelterQueue.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\AnimalShelterQueue\bin\Debug\netcoreapp2.0\AnimalShelterQueue.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\AnimalShelterQueue\bin\Debug\netcoreapp2.0\AnimalShelterQueue.dll
+C:\Users\acohr\source\repos\data-structures\AnimalShelterQueue\bin\Debug\netcoreapp2.0\AnimalShelterQueue.pdb
+C:\Users\acohr\source\repos\data-structures\AnimalShelterQueue\obj\Debug\netcoreapp2.0\AnimalShelterQueue.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\AnimalShelterQueue\obj\Debug\netcoreapp2.0\AnimalShelterQueue.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\AnimalShelterQueue\obj\Debug\netcoreapp2.0\AnimalShelterQueue.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\AnimalShelterQueue\obj\Debug\netcoreapp2.0\AnimalShelterQueue.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\AnimalShelterQueue\obj\Debug\netcoreapp2.0\AnimalShelterQueue.dll
+C:\Users\acohr\source\repos\data-structures\AnimalShelterQueue\obj\Debug\netcoreapp2.0\AnimalShelterQueue.pdb
