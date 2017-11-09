@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\Possible combinations\bin\Debug\netcoreapp2.0\Possible combinations.deps.json
+C:\Users\acohr\source\repos\data-structures\Possible combinations\bin\Debug\netcoreapp2.0\Possible combinations.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\Possible combinations\bin\Debug\netcoreapp2.0\Possible combinations.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\Possible combinations\bin\Debug\netcoreapp2.0\Possible combinations.dll
+C:\Users\acohr\source\repos\data-structures\Possible combinations\bin\Debug\netcoreapp2.0\Possible combinations.pdb
+C:\Users\acohr\source\repos\data-structures\Possible combinations\obj\Debug\netcoreapp2.0\Possible combinations.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\Possible combinations\obj\Debug\netcoreapp2.0\Possible combinations.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\Possible combinations\obj\Debug\netcoreapp2.0\Possible combinations.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\Possible combinations\obj\Debug\netcoreapp2.0\Possible combinations.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\Possible combinations\obj\Debug\netcoreapp2.0\Possible combinations.dll
+C:\Users\acohr\source\repos\data-structures\Possible combinations\obj\Debug\netcoreapp2.0\Possible combinations.pdb
