@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\data-structures\findNthFib\bin\Debug\netcoreapp2.0\findNthFib.deps.json
+C:\Users\acohr\source\repos\data-structures\findNthFib\bin\Debug\netcoreapp2.0\findNthFib.runtimeconfig.json
+C:\Users\acohr\source\repos\data-structures\findNthFib\bin\Debug\netcoreapp2.0\findNthFib.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\data-structures\findNthFib\bin\Debug\netcoreapp2.0\findNthFib.dll
+C:\Users\acohr\source\repos\data-structures\findNthFib\bin\Debug\netcoreapp2.0\findNthFib.pdb
+C:\Users\acohr\source\repos\data-structures\findNthFib\obj\Debug\netcoreapp2.0\findNthFib.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\data-structures\findNthFib\obj\Debug\netcoreapp2.0\findNthFib.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\data-structures\findNthFib\obj\Debug\netcoreapp2.0\findNthFib.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\data-structures\findNthFib\obj\Debug\netcoreapp2.0\findNthFib.AssemblyInfo.cs
+C:\Users\acohr\source\repos\data-structures\findNthFib\obj\Debug\netcoreapp2.0\findNthFib.dll
+C:\Users\acohr\source\repos\data-structures\findNthFib\obj\Debug\netcoreapp2.0\findNthFib.pdb
